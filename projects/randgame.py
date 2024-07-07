@@ -1,4 +1,4 @@
-import random
+import random;
 
 num = random.randint(1,5)
 inp = int(input("Guess the number between 1 and 5: "))

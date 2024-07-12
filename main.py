@@ -1,6 +1,6 @@
-# write a program to add two numbers
-num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the first number: "))
-slv = num1+num2
-print("the slved number is: ",slv)
+def mulint(n):
+  for i in range(1,11):
+    print(f"{n} X {i} = {n*i}")
+
+inf = int(input("Enter the number: "))
 

@@ -7,6 +7,8 @@ def fi_twice(s):
     if s1[i]==s1[i-1]:
       print(s1[i])
 
-fi_twice("heymeitsmo")
+e = "hell"
+fi_twice(e)
+
 
   

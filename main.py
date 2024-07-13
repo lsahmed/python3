@@ -1,6 +1,6 @@
-def mulint(n):
-  for i in range(1,11):
-    print(f"{n} X {i} = {n*i}")
+class comp:
+  lang = "c++"
+  def __init__(self):
+    print("heello ji my name is ahmed")
 
-inf = int(input("Enter the number: "))
-
+lo = comp()
